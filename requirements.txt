@@ -1,3 +1,5 @@
 # python 3.9.7
-cython=0.29.32
-qutip=4.7.0
+numpy==1.23.2
+jupyterlab==3.4.5
+cython==0.29.32
+qutip==4.7.0
